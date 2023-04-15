@@ -7,7 +7,14 @@ and approver." (Department of Defense (DoD), [Joint Special Access Program (SAP)
 
 Requirements:  
   * MODULES  
-    * A
+    * [dbatools](https://github.com/dataplat/dbatools)  
+    * [importexcel](https://github.com/dfinke/ImportExcel)  
+    * [BurntToast](https://www.powershellgallery.com/packages/BurntToast/0.8.5)  
+    * [Selenium](https://www.powershellgallery.com/packages/Selenium/3.0.1)  
+
+ * LIBRARIES
+  * [alphafs](http://alphafs.alphaleonis.com/)  
+  * [itext7](https://itextpdf.com/)  
 
 module:  [dbatools](https://github.com/dataplat/dbatools)  
   module:  [importexcel](https://github.com/dfinke/ImportExcel)  
