@@ -4,6 +4,7 @@
 making request, filename, file format, classification level, source and destination systems, 
 and approver." (Department of Defense (DoD), [Joint Special Access Program (SAP) Implementation Guide (JSIG) 2016)](https://www.dcsa.mil/portals/91/documents/ctp/nao/JSIG_2016April11_Final_(53Rev4).pdf)  
 
+## Dependencies
 * Modules (Required)  
   * [dbatools](https://github.com/dataplat/dbatools)  
   * [importexcel](https://github.com/dfinke/ImportExcel)  
@@ -16,8 +17,8 @@ and approver." (Department of Defense (DoD), [Joint Special Access Program (SAP)
   * [alphafs](http://alphafs.alphaleonis.com/)  
   * [itext7](https://itextpdf.com/)  
   
-Reference:  
+## Reference:  
 * JSIG AC-4  
 
-Links:  
+## Links:  
 1. [offering-jsig](https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-jsig)  
