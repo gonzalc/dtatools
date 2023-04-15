@@ -15,7 +15,7 @@ Requirements:
   
   module:  [Selenium](https://www.powershellgallery.com/packages/Selenium/3.0.1)
   
-  [alphafs](http://alphafs.alphaleonis.com/)
+  [alphafs](http://alphafs.alphaleonis.com/)  
   [itext7](https://itextpdf.com/
   
 Optional:
