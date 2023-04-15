@@ -1,5 +1,4 @@
-# dtatools
-<center>Data Transfer Agent Tools</center>  
+# Data Transfer Agent Tools (dtatools)
 
 "All data transfers (e.g., low to high, high to low) must be tracked to include date, originator 
 making request, filename, file format, classification level, source and destination systems, 
@@ -21,4 +20,4 @@ Reference:
 * JSIG AC-4  
 
 Links:  
-* [offering-jsig](https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-jsig)  
+1. [offering-jsig](https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-jsig)  
