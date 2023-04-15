@@ -6,7 +6,7 @@ Reference: JSIG AC-4
 making request, filename, file format, classification level, source and destination systems, 
 and approver." (Department of Defense (DoD), [Joint Special Access Program (SAP) Implementation Guide (JSIG) 2016)](https://www.dcsa.mil/portals/91/documents/ctp/nao/JSIG_2016April11_Final_(53Rev4).pdf)  
 
-Requirements: 
+Requirements:  
   module:  [dbatools](https://github.com/dataplat/dbatools)  
   module:  [importexcel](https://github.com/dfinke/ImportExcel)  
   module:  [BurntToast](https://www.powershellgallery.com/packages/BurntToast/0.8.5)  
@@ -15,9 +15,9 @@ Requirements:
   library: [alphafs](http://alphafs.alphaleonis.com/)  
   library: [itext7](https://itextpdf.com/)  
   
-Optional:
+Optional:  
   module: [Pester](https://github.com/pester/Pester)  
   
-Links:
+Links:  
   [offering-jsig](https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-jsig)  
 
