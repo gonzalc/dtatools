@@ -8,11 +8,15 @@ and approver." (Department of Defense (DoD), [Joint Special Access Program (SAP)
 
 Requirements: 
   module:  [dbatools](https://github.com/dataplat/dbatools)     # databases
+  
   module:  [importexcel](https://github.com/dfinke/ImportExcel) # excel
+  
   module:  [BurntToast](https://www.powershellgallery.com/packages/BurntToast/0.8.5)
+  
   module:  [Selenium](https://www.powershellgallery.com/packages/Selenium/3.0.1)
   
   library: [alphafs](http://alphafs.alphaleonis.com/)
+  
   library: [itext7](https://itextpdf.com/
   
 Optional:
