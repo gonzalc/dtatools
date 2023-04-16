@@ -11,13 +11,16 @@
   1. A  
 
 #### Install SQL Server Management Studio (required)  
-  1. g  
-  2. g  
-
+  1. B  
+  2. B  
 
 ## Update  
+ 1. C  
 
 ## Remove  
+ 1. D  
 
-# Usage  
+# Usage
+
 ## Example1: ----  
+ 1. D
