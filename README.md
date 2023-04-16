@@ -26,7 +26,7 @@ This project will...
 * Modules (Optional)  
   * [Pester](https://github.com/pester/Pester)  
 
-* Libraries
+* Libraries (Required)
   * [alphafs](http://alphafs.alphaleonis.com/)  
   * [itext7](https://itextpdf.com/)  
   
