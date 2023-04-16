@@ -4,12 +4,15 @@
 https://github.com/PowerShell/PowerShell
 https://github.com/MicrosoftDocs/PowerShell-Docs
 
-# dbatools and importexcel layout
+# dbatools, importexcel, oh-my-posh layout
 https://github.com/dataplat/dbatools
 https://github.com/dfinke/ImportExcel
+https://github.com/JanDeDobbeleer/oh-my-posh
 
 #
 https://github.com/PowerShell/PowerShell/tree/master/src
 https://github.com/PowerShell/PowerShell/tree/master/src/Modules/Windows
 https://github.com/PowerShell/PowerShell/tree/master/docs
 https://github.com/PowerShell/PowerShell/tree/master/CHANGELOG
+https://github.com/MicrosoftDocs/PowerShell-Docs/tree/main/reference/7.2
+https://learn.microsoft.com/en-us/powershell/scripting/developer/cmdlet/approved-verbs-for-windows-powershell-commands?view=powershell-7.3
