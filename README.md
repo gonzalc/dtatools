@@ -2,7 +2,7 @@
 
 "All data transfers (e.g., low to high, high to low) must be tracked to include date, originator 
 making request, filename, file format, classification level, source and destination systems, 
-and approver." (Department of Defense (DoD), [Joint Special Access Program (SAP) Implementation Guide (JSIG) 2016)](https://www.dcsa.mil/portals/91/documents/ctp/nao/JSIG_2016April11_Final_(53Rev4).pdf)  
+and approver." (Department of Defense (DoD), [Joint Special Access Program (SAP) Implementation Guide (JSIG) 2016](https://www.dcsa.mil/portals/91/documents/ctp/nao/JSIG_2016April11_Final_(53Rev4).pdf))  
 
 ## Description / Scenarios
 This project will...
