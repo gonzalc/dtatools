@@ -8,7 +8,7 @@ function Get-FileInfo {
     #. steppablepipeline
     #. wildcards
     #. write-verbose
-.Related Links
+.Links
 #>
     [CmdletBinding(
         SupportsShouldProcess    = $true
