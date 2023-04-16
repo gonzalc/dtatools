@@ -7,6 +7,8 @@ function Get-FileInfo {
         ,DefaultParameterSetName = 'Standard'
         ,HelpURI                 = 'https://www.google.com'
     )]
+    [OutputType([PSCustomObject], ParameterSetName="Standard")]
+    [OutputType([PSCustomObject], ParameterSetName="Literal")]
     param(
         ###########################################################################################################################
         #                                              PATH                                                                       #
