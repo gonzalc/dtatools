@@ -7,3 +7,9 @@ https://github.com/MicrosoftDocs/PowerShell-Docs
 # dbatools and importexcel layout
 https://github.com/dataplat/dbatools
 https://github.com/dfinke/ImportExcel
+
+#
+https://github.com/PowerShell/PowerShell/tree/master/src
+https://github.com/PowerShell/PowerShell/tree/master/src/Modules/Windows
+https://github.com/PowerShell/PowerShell/tree/master/docs
+https://github.com/PowerShell/PowerShell/tree/master/CHANGELOG
