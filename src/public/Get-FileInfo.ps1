@@ -5,11 +5,13 @@ function Get-FileInfo {
 .Inputs
 .Outputs
 .Notes
+    #. Dynamic parameters
     #. steppablepipeline
     #. progress bar
     #. runspace factory
     #. wildcards
     #. write-verbose
+    # error handling
     
 .Links
 #>
