@@ -1,11 +1,21 @@
 function Get-FileInfo {
 <#
-
+.Synopsis
+.Syntax
+.Description
+.Parameters
+.Inputs
+.Outputs
+.Notes
+    #. steppablepipeline
+    #. wildcards
+    #. write-verbose
+.Related Links
 #>
     [CmdletBinding(
         SupportsShouldProcess    = $true
         ,DefaultParameterSetName = 'Standard'
-        ,HelpURI                 = 'https://www.google.com'
+        ,HelpURI                 = 'https://github.com/gonzalc/dtatools/blob/main/src/public/Get-FileInfo.md'
     )]
     [OutputType([PSCustomObject], ParameterSetName="Standard")]
     [OutputType([PSCustomObject], ParameterSetName="Literal")]
@@ -68,7 +78,16 @@ function Get-FileInfo {
         [switch]$PassThru
     )
 
-    begin {}
-    process {}
-    end {}
+    begin {
+    
+    } # END: BEGIN
+    process {
+    
+    } # END: PROCESS 
+    end {
+    
+    } # END: END
+<#
+# SIGNATURE
+#>
 }
