@@ -14,6 +14,7 @@ function Get-FileInfo {
     # error handling
     
 .Links
+    #. https://github.com/gonzalc/dtatools
 #>
     [CmdletBinding(
         SupportsShouldProcess    = $true
