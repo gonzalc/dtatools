@@ -11,7 +11,7 @@ function Get-FileInfo {
     #. runspace factory
     #. wildcards
     #. write-verbose
-    # error handling
+    #. error handling
     
 .Links
     #. https://github.com/gonzalc/dtatools
