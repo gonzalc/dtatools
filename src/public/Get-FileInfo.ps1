@@ -1,9 +1,7 @@
 function Get-FileInfo {
 <#
 .Synopsis
-.Syntax
 .Description
-.Parameters
 .Inputs
 .Outputs
 .Notes
