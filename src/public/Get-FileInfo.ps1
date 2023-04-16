@@ -6,8 +6,11 @@ function Get-FileInfo {
 .Outputs
 .Notes
     #. steppablepipeline
+    #. progress bar
+    #. runspace factory
     #. wildcards
     #. write-verbose
+    
 .Links
 #>
     [CmdletBinding(
