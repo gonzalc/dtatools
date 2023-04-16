@@ -4,7 +4,7 @@
 making request, filename, file format, classification level, source and destination systems, 
 and approver." (Department of Defense (DoD), [Joint Special Access Program (SAP) Implementation Guide (JSIG) 2016)](https://www.dcsa.mil/portals/91/documents/ctp/nao/JSIG_2016April11_Final_(53Rev4).pdf)  
 
-## Description
+## Description / Scenarios
 This project will...
   * assist data transfer agents (DTA)  
     * retrieve the file information specified within the JSIG.  
