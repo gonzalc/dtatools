@@ -1,8 +1,21 @@
-# Data Transfer Agent Tools (dtatools)
+# 💿Data Transfer Agent Tools (dtatools)
 
 "All data transfers (e.g., low to high, high to low) must be tracked to include date, originator 
 making request, filename, file format, classification level, source and destination systems, 
 and approver." (Department of Defense (DoD), [Joint Special Access Program (SAP) Implementation Guide (JSIG) 2016)](https://www.dcsa.mil/portals/91/documents/ctp/nao/JSIG_2016April11_Final_(53Rev4).pdf)  
+
+## Description
+This project will...
+  * assist data transfer agents (DTA)  
+    * retrieve the file information specified within the JSIG.  
+    * (optional) retrieve size, count of folders/files, and hash  
+    * send results to database and populate data transfer sheets (PDF)  
+  * assist media control agents (MCA)
+    * query database  
+    * display results on website  
+  * assist database administrators (DBA)
+    * export data from source database and append rows to destination table
+    * CCB required to identify what to do with source data (e.g,. retain?)
 
 ## Dependencies
 * Modules (Required)  

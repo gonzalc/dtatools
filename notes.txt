@@ -1,0 +1,9 @@
+# this is temporary - to help me organize the structure
+
+# powershell main folders
+https://github.com/PowerShell/PowerShell
+https://github.com/MicrosoftDocs/PowerShell-Docs
+
+# dbatools and importexcel layout
+https://github.com/dataplat/dbatools
+https://github.com/dfinke/ImportExcel
