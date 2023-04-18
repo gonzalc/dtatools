@@ -1,4 +1,16 @@
 # Setup  
+
+## Download
+
+## A
+| Release | Hash (SHA256) |
+| 1.0 | A |
+| 1.0.1 | AB |
+| 1.0.2 | ABC |
+| 2.0 | D |
+| 2.0.1 | DE |
+| 2.0.2 | DEF |
+
 ## Install dtatools and dependencies
 - src or bin  
 
