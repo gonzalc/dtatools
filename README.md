@@ -10,7 +10,7 @@ and approver." (Department of Defense (DoD), [Joint Special Access Program (SAP)
 This project will...
   * assist data transfer agents (DTA)  
     * retrieve the file information specified within the JSIG.  
-    * (optional) retrieve size, count of folders/files, and hash  
+    * `(optional)` retrieve size, count of folders/files, and hash  
     * send results to database and populate data transfer sheets (PDF)  
   * assist media control agents (MCA)
     * query database  
