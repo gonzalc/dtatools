@@ -1,7 +1,27 @@
 # Behavior
 
 # Style
+## Cross Platform Tips
+[tips for writing cross platform powershell code](https://powershell.org/2019/02/tips-for-writing-cross-platform-powershell-code/)  
+-  Replace `env:` drive with the `[System.Environment]` class  
+    | Windows Variable  |.Net Variable                            |
+    |-------------------|-----------------------------------------|
+    | $env:USERNAME     | [System.Environment]::UserName          |
+    | $env:COMPUTERNAME | [System.Environment]::MachineName       |
+    | $env:TEMP         | [System.IO.Path]::GetTem      pPath()   |
+- Use the same case when manipulating environment variable variable variable variable variable variable variable variable variable variable var|
+    | Success                                              | Failure                                              |
+    |------------------------------------------------------|------------------------------------------------------|
+    |$env:PATH                                             | $env:Path                                            |
+    | [System.Environment]::GetEnvironmentVariable('PATH') | [System.Environment]::GetEnvironmentVariable('Path') | 
+- **(OUTDATED)** Use Join-Path instead of assigning a full path in a string.
+    > The reason was Linux and MacOS see '\\' as an escape character.  
+    The cmdlet `Join-Path` converts the directory separator to the current platform.  
+    An example is: `Join-Path -Path '\usr\bin' -ChildPath 'dotnet'`  
 
+    | Windows             | Linux/MacOS          |
+    |---------------------|----------------------|
+    | `'/usr/bin/dotnet'` | `'\usr\bin\dotnet\'` |
 # How to work with Git
 1. git checkout main
 1. git pull
