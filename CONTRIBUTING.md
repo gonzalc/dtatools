@@ -8,8 +8,8 @@
     |-------------------|-----------------------------------------|
     | $env:USERNAME     | [System.Environment]::UserName          |
     | $env:COMPUTERNAME | [System.Environment]::MachineName       |
-    | $env:TEMP         | [System.IO.Path]::GetTem      pPath()   |
-- Use the same case when manipulating environment variable variable variable variable variable variable variable variable variable variable var|
+    | $env:TEMP         | [System.IO.Path]::GetTempPath()         |
+- Use the same case when manipulating environment variable        |
     | Success                                              | Failure                                              |
     |------------------------------------------------------|------------------------------------------------------|
     |$env:PATH                                             | $env:Path                                            |
