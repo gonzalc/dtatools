@@ -31,3 +31,6 @@ does 7zip CLI stream the compressed file content?
 
 ### steppable pipeline
 $env:onedrive\Documents\PowerShell\steppablepipeline.ps1
+
+### thread safe collections
+https://learn.microsoft.com/en-us/dotnet/standard/collections/thread-safe/when-to-use-a-thread-safe-collection
