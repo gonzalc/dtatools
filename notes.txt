@@ -27,3 +27,7 @@ does 7zip CLI stream the compressed file content?
 ## websites
 [github search tips](https://www.freecodecamp.org/news/github-search-tips/)
 [dbatools difference between sql types and powershell types](https://github.com/search?q=repo%3Adataplat%2Fdbatools%20int64%20bigint&type=code)
+
+
+### steppable pipeline
+$env:onedrive\Documents\PowerShell\steppablepipeline.ps1
