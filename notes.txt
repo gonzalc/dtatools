@@ -21,3 +21,9 @@ https://learn.microsoft.com/en-us/powershell/scripting/developer/cmdlet/approved
 
 #
 does 7zip CLI stream the compressed file content?
+
+`text` type in SQL is 16,777,215 characters
+
+## websites
+[github search tips](https://www.freecodecamp.org/news/github-search-tips/)
+[dbatools difference between sql types and powershell types](https://github.com/search?q=repo%3Adataplat%2Fdbatools%20int64%20bigint&type=code)

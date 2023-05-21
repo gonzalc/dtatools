@@ -1,5 +1,6 @@
 # Behavior
 
+consider using [strict mode](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/set-strictmode?view=powershell-7.3)
 
 ## Style
 
